@@ -1,0 +1,53 @@
+body {
+   margin: 0;
+}
+.tieude {
+  background-color: white;
+  color:blue;
+  padding: 10px;
+  text-align: center;
+}
+.hangdau{
+  background-color:orangered;
+
+}
+
+.hangdau a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 30px 16px;
+  text-decoration: none;
+  width: 100%;x
+}
+.hangdau a:hover {
+  background-color: orangered;
+  color: wheat;
+  font-weight: bold
+}
+.cot {  float: left;
+  margin: 0 auto;
+  width: 33.33%;
+  padding: 0px;
+  text-align:;
+}
+.hangngang1:after {
+   content: "";
+   display: table;
+   clear: both;}
+.hangngang2:after {
+   content: "";
+   display: table;
+   clear: both;}
+.hangngang3:after {
+  content: "";
+  display: table;
+  clear: both;}
+.hangdau {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+}
